@@ -131,6 +131,18 @@ footer{
     padding: 10px;
     font-size: 0.8em;
 }
+footer a{
+    text-decoration: none;
+    color: white;
+    
+}
+footer a:hover{
+    text-decoration: underline;
+    background-color: #ff3838;
+    color: #921b15;
+    padding: 5px;
+    border-radius: 10px;
+}
 .secundario{
     margin: 15px 0px;
 
