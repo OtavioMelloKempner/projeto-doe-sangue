@@ -14,7 +14,7 @@ body{
 }
 
 header{
-    background-image: linear-gradient(to bottom, #921b15, #fd382e);
+    background-image: linear-gradient(to bottom, #921b15, #f82b21, #921b15);
     min-height: 120px;
     box-shadow: 1px 1px 5px black;
 
@@ -41,7 +41,7 @@ header p{
     
 }
 nav{
-    background-color: #fd382e;
+    background-color: #921b15;
     padding: 10px;
     box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.274)
     
